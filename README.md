@@ -1,5 +1,7 @@
 # codeforces-solutions
 This repo contains solutions to many codeforces problems.
+we can also add problems from different platforms like codechef,
+SPOJ, Interview Bit, Leet Code etc.
 
 ## Contributions
 
